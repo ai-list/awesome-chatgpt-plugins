@@ -1,4 +1,4 @@
-# Awesome chatgpt plugin
+# Awesome ChatGPT Plugins
 
 A curated collection of outstanding GPT-powered chatbot plugins.
 
