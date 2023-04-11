@@ -1,6 +1,6 @@
 # Awesome ChatGPT Plugins
 
-A curated collection of outstanding GPT-powered chatbot plugins.
+A curated collection of outstanding ChatGPT plugins to make your life easier.
 
 > **Join the [ChatGPT plugins waitlist here](https://openai.com/waitlist/plugins)!**
 
