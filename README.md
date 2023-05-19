@@ -47,7 +47,9 @@ A curated collection of outstanding ChatGPT plugins to make your life easier.
   - [FiscalNote](https://fiscalnote.com/) - Discover, monitor, and manage the issues that matter to you with FiscalNote's legislative and regulatory tracking tools.
   - [Zapier](https://www.zapier.com) - Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.
   - [Milo Family AI](https://www.joinmilo.com/) - Curating the wisdom of village to give parents ideas that turn any 20 minutes from meh to magic.
-
+- ChatGPT Plugin Store
+  - There's An AI For That - "Find the right AI tools for any use case, from the world's largest database of AI tools."
+  - Show Me - "Create and edit diagrams directly in chat."
 ## News
 
 - unverified
@@ -74,6 +76,12 @@ A curated collection of outstanding ChatGPT plugins to make your life easier.
 - verified
   - [Speak](https://www.speak.com/) - Learn how to say anything in another language with Speak, your AI-powered language tutor.
 
+## Health
+
+- ChatGPT Plugin Store 
+  - Shimmer: Nutition Coach - "Track meals & gain insights for a healthier lifestyle from 1m+ restaurants & grocery stores."
+
+
 ## Developer
 
 - unverified
@@ -85,7 +93,9 @@ A curated collection of outstanding ChatGPT plugins to make your life easier.
   - [ChatGPT Plugin Examples](https://github.com/breadchris/chatgpt-plugin-examples) - Code examples from the ChatGPT plugin documentation.
   - [Datasette](https://github.com/simonw/datasette-chatgpt-plugin) - A Datasette plugin that turns a Datasette instance into a ChatGPT plugin - so you can use ChatGPT to ask questions of your data.
 - demo
-  - [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - An experimental ChatGPT model that can use Python, handle uploads and downloads
+  - [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - An experimental ChatGPT model that can use Python, handle uploads and downloads 
+- ChatGPT Plugin Store
+ - Noteable - "Create notebooks in Python, SQL, and Markdown to explore data, visualize, and share notebooks with everyone."
 
 ## Shopping, traveling and dining
 
