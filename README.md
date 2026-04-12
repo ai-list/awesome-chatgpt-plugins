@@ -86,6 +86,8 @@ A curated collection of outstanding ChatGPT plugins to make your life easier.
   - [Datasette](https://github.com/simonw/datasette-chatgpt-plugin) - A Datasette plugin that turns a Datasette instance into a ChatGPT plugin - so you can use ChatGPT to ask questions of your data.
 - demo
   - [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) - An experimental ChatGPT model that can use Python, handle uploads and downloads
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing SEO & Google Ads skills — meta tag rewrites, schema markup, keyword bids, and CMS content pushes.
+
 
 ## Shopping, traveling and dining
 
