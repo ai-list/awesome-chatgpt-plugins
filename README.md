@@ -62,6 +62,7 @@ A curated collection of outstanding ChatGPT plugins to make your life easier.
 
 - unverified
   - [SceneXplain](https://scenex.jina.ai/.well-known/ai-plugin.json) - Plugin for explaining image. You can send an image URL or base64 encoded image and get an explanation of the image.
+  - [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
     - To install, enter `scenex.jina.ai` as website domain
   - [ASCII Art](https://chatgpt-plugin-ts.transitive-bullshit.workers.dev/.well-known/ai-plugin.json) - Convert any text to ASCII art.
     - To install, enter `chatgpt-plugin-ts.transitive-bullshit.workers.dev` as website domain
