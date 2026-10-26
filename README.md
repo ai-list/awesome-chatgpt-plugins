@@ -47,6 +47,7 @@ A curated collection of outstanding ChatGPT plugins to make your life easier.
   - [FiscalNote](https://fiscalnote.com/) - Discover, monitor, and manage the issues that matter to you with FiscalNote's legislative and regulatory tracking tools.
   - [Zapier](https://www.zapier.com) - Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.
   - [Milo Family AI](https://www.joinmilo.com/) - Curating the wisdom of village to give parents ideas that turn any 20 minutes from meh to magic.
+  - [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## News
 
